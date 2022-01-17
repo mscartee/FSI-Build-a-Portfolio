@@ -1,0 +1,31 @@
+BODY {
+    BACKGROUND-IMAGE: URL("/images/coding-portfolio.jpeg");
+    BACKGROUND-REPEAT: repeat;
+    background-color:antiquewhite;
+    Cursor: wait;
+    font: 1.2em "fira sans", serif;
+    
+
+}
+H1 {
+    COLOR: RED;
+}
+H2 {
+    COLOR: orange;
+}
+H3 {
+    COLOR:orange;
+    font
+}
+P {
+    COLOR:WHITE;
+}
+LI {
+    COLOR:WHITE;
+}
+IMG {
+    border-radius: 20PX;
+    border-color:red;
+    border-style: dotted;
+    border-width: thick;
+}
